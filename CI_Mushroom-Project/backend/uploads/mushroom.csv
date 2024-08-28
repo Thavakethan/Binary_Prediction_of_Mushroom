@@ -1,0 +1,5 @@
+id,stem-height,stem-width,cap-diameter,season,habitat,does-bruise-or-bleed,cap-color
+1,4.2,1,3.5,summer,forest,TRUE,red
+2,5.1,1.2,4,fall,meadow,FALSE,brown
+3,3.9,0.8,3.2,summer,grassland,TRUE,white
+4,4.5,1.1,3.8,winter,forest,FALSE,gray
